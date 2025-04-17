@@ -1,0 +1,83 @@
+{
+  "name": "NCRtelugu",
+  "plugins": [
+    {
+      "iconUrl": "https://telugumv.xyz/wp-content/uploads/2024/05/20240509_195734-e1715265186634.png",
+      "jarFileSize": 95556,
+      "apiVersion": 1,
+      "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+      "fileSize": 23735,
+      "status": 1,
+      "language": "te",
+      "authors": ["Phisher98"],
+      "tvTypes": ["Movie", "TvSeries"],
+      "version": 3,
+      "internalName": "Telugumv",
+      "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Telugumv.jar",
+      "description": "Telugu Movies and TV Series",
+      "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Telugumv.cs3",
+      "name": "Telugumv"
+    },
+    {
+      "iconUrl": "https://toonstream.co/wp-content/uploads/2024/01/TOONSTREAM.png",
+      "jarFileSize": 81696,
+      "apiVersion": 1,
+      "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+      "fileSize": 19935,
+      "status": 1,
+      "language": "hi",
+      "authors": ["Phisher98"],
+      "tvTypes": ["AnimeMovie", "Anime", "Cartoon"],
+      "version": 25,
+      "internalName": "Toonstream",
+      "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Toonstream.jar",
+      "description": "ToonStream Multi Language",
+      "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Toonstream.cs3",
+      "name": "Toonstream"
+    },
+    {
+      "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 196184,
+        "status": 1,
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime",
+            "Torrent",
+            "Live"
+        ],
+        "version": 118,
+        "internalName": "CineStream",
+        "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+        "name": "CineStream"
+   },
+   {
+    "iconUrl": "https://fztvseries.live/logo/fztvseries2.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 10444,
+        "status": 2,
+        "language": "en",
+        "authors": [
+            "Redowan"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 4,
+        "internalName": "FzTvSeries",
+        "description": "Only TvSeries provider",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FzTvSeries.cs3",
+        "name": "FzTvSeries"
+    }
+  ]
+}
